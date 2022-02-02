@@ -25,6 +25,6 @@ g3
 
 b1
 
-b2
+b2 asdf asdf asdf
 
 b3 asdfasdfasdf
